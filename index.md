@@ -89,6 +89,10 @@ False. The Julian calendar is still used by Eastern Orthodox churches, and the J
 
 False. This is very weird.
 
+## Everything you know about calendars is applicable to space travel.
+
+False. There are many weird things about calendars and space travel. Days are longer, days are shorter, time flows faster, time flows slower, days are longer than years, etc etc.
+
 ## "Calendrical" isn't a real word.
 
 [False](https://www.merriam-webster.com/dictionary/calendrical).
