@@ -60,6 +60,10 @@ False. It's the year Heisei 29 in the Japanese calendar.
 ## *Fine*... Timezones are always on the *quarter* hour mark
 ## No location will ever change what time zone it's in
 
+## "Calendrical" isn't a real word.
+
+[False](https://www.merriam-webster.com/dictionary/calendrical).
+
 ## This is all really complicated.
 
 True!
