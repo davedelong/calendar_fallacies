@@ -42,7 +42,7 @@ False. Traditional Islamic calendars base their months on local observations of 
 
 ## A week is always seven days
 
-Surprisingly, this appears to be true.
+Currently true, but historically false. A couple of out-of-use calendars, like the [Decimal calendar](https://en.wikipedia.org/wiki/Decimal_time) and the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar#Lunar_calendar) had weeks that were 7, 8, or even 10 days.
 
 ## The current year is 2017
 
