@@ -52,6 +52,10 @@ False. It's the year 5777 in the Hebrew calendar.
 
 False. It's the year Heisei 29 in the Japanese calendar.
 
+## In a range of hours, an hour will not be missing in the middle of it
+
+False. When the "leap forward" transition happens for Daylight Saving Time, an hour is missing. In the US, this is the 2 AM hour, which means that time goes from 1:58 ... 1:59 ... 3:00 ... 3:01 ...
+
 ## In a range of days, a day will not be missing in the middle of it
 
 False. In 1582, the transition from the Julian to Gregorian calendars meant that there was about a week and a half that was missing for various locations around Europe.
