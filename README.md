@@ -28,6 +28,7 @@ False. Many places around the world observe Daylight Saving Time, which means th
 ## Timezones always are on the hour mark
 ## OK... Timezones are always on the *half* hour mark
 ## *Fine*... Timezones are always on the *quarter* hour mark
+## No location will ever change what time zone it's in
 
 ## This is all really complicated.
 
