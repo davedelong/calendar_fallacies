@@ -88,7 +88,7 @@ False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar), whi
 
 ## The current year only changes at "New Years"
 
-False. The current year of the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) is based on the reign of the current emperor. When the emperor dies, the next day is reset to the year 1 (of a new era).
+False. The current year of the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) is based on the reign of the current emperor. When the emperor dies (or abdicates), the next day is reset to the year 1 (of a new era).
 
 For example, the Emperor Shōwa (Hirohito) passed away on January 7, Shōwa 64 (January 7, 1989). His son, Akihito, ascended to the throne the next day, which was the date January 8, Heisei 1.
 
