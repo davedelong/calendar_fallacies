@@ -60,6 +60,10 @@ False. It's the year Heisei 29 in the Japanese calendar.
 ## *Fine*... Timezones are always on the *quarter* hour mark
 ## No location will ever change what time zone it's in
 
+## It is normal that the Sept-, Oct-, Nov-, and Dec- months are numbered 9, 10, 11, and 12
+
+False. This is very weird.
+
 ## "Calendrical" isn't a real word.
 
 [False](https://www.merriam-webster.com/dictionary/calendrical).
