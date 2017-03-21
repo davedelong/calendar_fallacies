@@ -20,7 +20,7 @@ False. Brazil performs its DST "leap forward" transition at midnight, which mean
 
 ## Days start at midnight (or as close to it as possible)
 
-False. Traditionally, the Hebrew calendar starts its days at sunset.
+Mostly true. For the sake of simplifying calculations and establishing conventions, the day-to-day rollover happens at midnight. However, the Hebrew calendar traditionally starts its days at sunset.
 
 ## Everyone uses the Gregorian calendar
 
@@ -47,13 +47,38 @@ False. It's the year 5777 in the Hebrew calendar.
 False. It's the year Heisei 29 in the Japanese calendar.
 
 ## In a range of days, a day will not be missing in the middle of it
+
+False. In 1582, the transition from the Julian to Gregorian calendars meant that there was about a week and a half that was missing for various locations around Europe.
+
+Additionally, in 2011, Samoa decided to jump "ahead" a full day in order to move to the west side of the International Date Line (previously they were on the east). This resulted in December 30, 2011 being skipped on their calendars. So for Samoans, December 29, 2011 was followed by December 30, 2011.
+
 ## In a range of months, a month will not be missing in the middle of it
+
+False. The Hebrew calendar uses leap months, which occur during the middle of the year.
+
 ## A year is twelve months
+
+False. Calendars like the Hebrew and Coptic calendars deal with years that are 13 months long.
+
 ## A year is 365 (or 366) days
+
 ## Leap years occur every four years
+
+False. The year 2000 was not a leap year.
+
 ## Leap years occur every four years except when the year is evenly divisible by 100
+
+False. The Hebrew calendar, which is based almost entirely off the lunar cycle, inserts leap years 7 times in a 19 year period.
+
 ## The current year only changes at "New Years"
+
+False. The current year of the Japanese Imperial calendar is based on the reign of the current emperor. When the emperor dies, the next day is reset to the year 1 (of a new era).
+
+For example, the Emperor Shōwa (Akhito) passed away on January 7, Shōwa 64 (January 7, 1989). His son, Hirohito, ascended to the throne the next day, which was the date January 8, Heisei 1.
+
 ## Nobody uses the Julian calendar anymore
+
+False. The Julian calendar is still used by Eastern Orthodox churches, and the Julian day is used in certain kinds of astronomical calculations.
 
 ## Timezones always are on the hour mark
 ## OK... Timezones are always on the *half* hour mark
