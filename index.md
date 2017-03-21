@@ -52,7 +52,7 @@ False. It's the year Heisei 29 in the Japanese calendar.
 
 False. In 1582, the transition from the Julian to Gregorian calendars meant that there was about a week and a half that was missing for various locations around Europe.
 
-Additionally, in 2011, Samoa decided to jump "ahead" a full day in order to move to the west side of the International Date Line (previously they were on the east). This resulted in December 30, 2011 being skipped on their calendars. So for Samoans, December 29, 2011 was followed by December 30, 2011.
+Additionally, in 2011, Samoa decided to jump "ahead" a full day in order to move to the west side of the International Date Line (previously they were on the east). This resulted in December 30, 2011 being skipped on their calendars. So for Samoans, December 29, 2011 was followed by December 31, 2011.
 
 ## In a range of months, a month will not be missing in the middle of it
 
