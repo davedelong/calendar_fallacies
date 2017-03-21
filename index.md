@@ -84,13 +84,17 @@ False. The year 2000 *was* a leap year.
 
 ## Leap years occur every four years except when the year is evenly divisible by 100, unless it's also evenly divisible by 400.
 
-False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar), which is based almost entirely off the lunar cycle, inserts leap years 7 times in a 19 year period.
+False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar), which is based almost entirely off the lunar cycle, inserts leap years [7 times in a 19 year period](https://en.wikipedia.org/wiki/Hebrew_calendar#Leap_years).
 
 ## The current year only changes at "New Years"
 
 False. The current year of the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) is based on the reign of the current emperor. When the emperor dies, the next day is reset to the year 1 (of a new era).
 
 For example, the Emperor Shōwa (Akihito) passed away on January 7, Shōwa 64 (January 7, 1989). His son, Hirohito, ascended to the throne the next day, which was the date January 8, Heisei 1.
+
+## A year only has one "New Years"
+
+False. In addition to the Japanese calendar having (potentially) an unbounded number of "New Years" in a single year, the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar#New_year) historically celebrated up to *four* different New Years in a single year.
 
 ## Nobody uses the Julian calendar anymore
 
