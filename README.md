@@ -53,6 +53,7 @@ False. It's the year Heisei 29 in the Japanese calendar.
 ## Leap years occur every four years
 ## Leap years occur every four years except when the year is evenly divisible by 100
 ## The current year only changes at "New Years"
+## Nobody uses the Julian calendar anymore
 
 ## Timezones always are on the hour mark
 ## OK... Timezones are always on the *half* hour mark
