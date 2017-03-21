@@ -18,6 +18,8 @@ This leads to some interesting questions: If a user has set an alarm to wake up 
 
 False. Brazil performs its DST "leap forward" transition at midnight, which means that 11:59 PM is followed by 1:00 AM.
 
+So if you're writing code and are trying to use the time `00:00:00` to represent "no time", you will be wrong in (at least) Brazil.
+
 ## Days start at midnight (or as close to it as possible)
 
 Mostly true. For the sake of simplifying calculations and establishing conventions, the day-to-day rollover happens at midnight. However, the Hebrew calendar traditionally starts its days at sunset.
