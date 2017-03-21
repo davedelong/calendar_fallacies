@@ -86,7 +86,7 @@ False. The Hebrew calendar, which is based almost entirely off the lunar cycle, 
 
 False. The current year of the Japanese Imperial calendar is based on the reign of the current emperor. When the emperor dies, the next day is reset to the year 1 (of a new era).
 
-For example, the Emperor Shōwa (Akhito) passed away on January 7, Shōwa 64 (January 7, 1989). His son, Hirohito, ascended to the throne the next day, which was the date January 8, Heisei 1.
+For example, the Emperor Shōwa (Akihito) passed away on January 7, Shōwa 64 (January 7, 1989). His son, Hirohito, ascended to the throne the next day, which was the date January 8, Heisei 1.
 
 ## Nobody uses the Julian calendar anymore
 
