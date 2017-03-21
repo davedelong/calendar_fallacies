@@ -1,8 +1,4 @@
-## Welcome to yourcalendricalfallacyis.com
-
-This site is dedicated to helping you navigate the insane complexity of calendrically correct date and time operations.
-
-**Your calendarical fallacy is thinking...**
+# Your calendarical fallacy is thinking...
 
 ## Days are 86,400 seconds long.
 
@@ -29,7 +25,6 @@ False. Many places around the world observe Daylight Saving Time, which means th
 ## Leap years occur every four years except when the year is evenly divisible by 100
 ## The current year only changes at "New Years"
 
-# Timezones
 ## Timezones always are on the hour mark
 ## OK... Timezones are always on the *half* hour mark
 ## *Fine*... Timezones are always on the *quarter* hour mark
