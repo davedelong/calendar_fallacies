@@ -38,7 +38,7 @@ False. The month [*Pi Kogi Enavot*](https://en.wikipedia.org/wiki/Intercalary_mo
 
 ## Month lengths follow regular cycles
 
-False. Traditional [Islamic calendars](https://en.wikipedia.org/wiki/Islamic_calendar) base their months on local observations of the moon. So if it's really really cloudy and the moon isn't visible, then the previous month just keeps going... and going...
+Mostly true, but specifically false. Traditional [Islamic calendars](https://en.wikipedia.org/wiki/Islamic_calendar) base their months on local observations of the moon. Sighting the moon determines whether the month will be 29 or 30 days long. However, since you can't know ahead of time if the moon will be visible (for example: extreme cloud cover), it's not always possible to know ahead of time how long the month will be.
 
 ## A week is always seven days
 
