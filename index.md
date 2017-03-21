@@ -10,9 +10,9 @@ False. Many places around the world observe Daylight Saving Time, which means th
 
 ## An hour will never occur twice in a single day
 
-False. On days when we "leap back" for the Daylight Saving Time shift, one hour occurs *twice*. For example, in the United States, the hour that occurs twice is the 2 AM hour. This means that on these "fall back" days, correctly-implemented clocks will go from 1:58 ... 1:59 ... 2:00 ... 2:01 ... ... 2:59 ... 2:00 ... 2:01 ...
+False. On days when we "leap back" for the Daylight Saving Time shift, one hour occurs *twice*. For example, in the United States, the hour that occurs twice is the 1 AM hour. This means that on these "fall back" days, correctly-implemented clocks will go from 1:58 ... 1:59 ... 1:00 ... 1:01 ... ... 1:59 ... 2:00 ... 2:01 ...
 
-This leads to some interesting questions: If a user has set an alarm to wake up at 2 AM on that day, what happens? Does the alarm go off the hour after the 1 AM hour? Or does it go off during the hour before 3 AM? Or does it go off twice? Or do you just give up and not make the alarm go off at all and make your users miss their dead-of-night appointment?
+This leads to some interesting questions: If a user has set an alarm to wake up at 1 AM on that day, what happens? Does the alarm go off the hour after the midnight hour? Or does it go off during the hour before 2 AM? Or does it go off twice? Or do you just give up and not make the alarm go off at all and make your users miss their dead-of-night appointment?
 
 ## Every day has a midnight
 
