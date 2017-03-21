@@ -40,6 +40,10 @@ False. The month [*Pi Kogi Enavot*](https://en.wikipedia.org/wiki/Intercalary_mo
 
 False. Traditional Islamic calendars base their months on local observations of the moon. So if it's really really cloudy and the moon isn't visible, then the previous month just keeps going... and going...
 
+## A week is always seven days
+
+Surprisingly, this appears to be true.
+
 ## The current year is {2017}
 
 False. It's the year 5777 in the Hebrew calendar.
