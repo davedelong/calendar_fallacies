@@ -37,3 +37,8 @@ False. Many places around the world observe Daylight Saving Time, which means th
 ## This is all really complicated.
 
 True!
+
+## I never want to write code that handles all of this.
+
+True! You should always use the Date and Time Services provided by the [ICU Project](http://userguide.icu-project.org/datetime). If you're an iOS/macOS developer, then you should always stick to `NSCalendar` and its cohorts.
+
