@@ -120,6 +120,10 @@ False. Parts of [Oceania](https://en.wikipedia.org/wiki/Oceania) are 12:45, 13:0
 
 False. As mentioned above, Samoa did just that in 2011. Cancún [switched timezones in 2015](http://abcnews.go.com/Travel/cancun-change-eastern-standard-time/story?id=28589197), as did [Turks & Caicos](http://www.huffingtonpost.com/2015/03/09/turks-and-caicos-time-zone_n_6832054.html).
 
+## We're done adding time zones.
+
+False. The `Asia/Tomsk` timezone [was created in 2016](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html) for parts of eastern Russia.
+
 ## It is normal that the Sept-, Oct-, Nov-, and Dec- months are numbered 9, 10, 11, and 12
 
 False. This is very weird. They used to be months 7, 8, 9, and 10, but some [reform to the Roman calendar](https://en.wikipedia.org/wiki/Roman_calendar#Calendar_of_Numa) back in the day resulted in the creation of January and February, which messed everything up.
