@@ -44,7 +44,7 @@ False. Traditional Islamic calendars base their months on local observations of 
 
 Surprisingly, this appears to be true.
 
-## The current year is {2017}
+## The current year is 2017
 
 False. It's the year 5777 in the Hebrew calendar.
 
