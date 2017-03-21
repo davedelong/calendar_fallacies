@@ -26,7 +26,7 @@ Mostly true. For the sake of simplifying calculations and establishing conventio
 
 ## Everyone uses the Gregorian calendar
 
-False. Many places in Africa use one of the various Coptic calendars. Israel uses the Hebrew calendar. The Islamic calendar is used all through the Middle East and other predominantly muslim countries. Thailand uses the Buddhist calendar. Japan uses the Japanese Imperial calendar for official state business.
+False. Many places in Africa use one of the various [Coptic calendars](https://en.wikipedia.org/wiki/Coptic_calendar). Israel uses the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar). The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is used all through the Middle East and other predominantly muslim countries. Thailand uses the Buddhist calendar. Japan uses the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) for official state business.
 
 ## Months always have 30 or 31 days in them
 
@@ -34,11 +34,11 @@ False. February. Duh.
 
 ## OK... Months always have at least 28 days in them
 
-False. The month [*Pi Kogi Enavot*](https://en.wikipedia.org/wiki/Intercalary_month_%28Egypt%29) in the Coptic calendar only has 5 or 6 days in it (depending on the year).
+False. The month [*Pi Kogi Enavot*](https://en.wikipedia.org/wiki/Intercalary_month_%28Egypt%29) in the [Coptic calendar](https://en.wikipedia.org/wiki/Coptic_calendar) only has 5 or 6 days in it (depending on the year).
 
 ## Month lengths follow regular cycles
 
-False. Traditional Islamic calendars base their months on local observations of the moon. So if it's really really cloudy and the moon isn't visible, then the previous month just keeps going... and going...
+False. Traditional [Islamic calendars](https://en.wikipedia.org/wiki/Islamic_calendar) base their months on local observations of the moon. So if it's really really cloudy and the moon isn't visible, then the previous month just keeps going... and going...
 
 ## A week is always seven days
 
@@ -46,11 +46,11 @@ Currently true, but historically false. A couple of out-of-use calendars, like t
 
 ## The current year is 2017
 
-False. It's the year 5777 in the Hebrew calendar.
+False. It's the year 5777 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).
 
 ## All the important years are four digits longs
 
-False. It's the year Heisei 29 in the Japanese calendar.
+False. It's the year Heisei 29 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).
 
 ## In a range of hours, an hour will not be missing in the middle of it
 
@@ -60,19 +60,19 @@ False. When the "leap forward" transition happens for Daylight Saving Time, an h
 
 False. In 1582, the transition from the Julian to Gregorian calendars meant that there was about a week and a half that was missing for various locations around Europe.
 
-Additionally, in 2011, Samoa decided to jump "ahead" a full day in order to move to the west side of the International Date Line (previously they were on the east). This resulted in December 30, 2011 being skipped on their calendars. So for Samoans, December 29, 2011 was followed by December 31, 2011.
+Additionally, in 2011, Samoa decided to jump "ahead" a full day in order to move to the west side of the International Date Line (previously they were on the east). This resulted in December 30, 2011 being skipped on their calendars. So for residents of Samoa, December 29, 2011 was followed by December 31, 2011.
 
 ## In a range of months, a month will not be missing in the middle of it
 
-False. The Hebrew calendar uses leap months, which occur during the middle of the year.
+False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar) uses leap months, which occur [during the middle of the year](https://en.wikipedia.org/wiki/Adar).
 
 ## A year is twelve months
 
-False. Calendars like the Hebrew and Coptic calendars deal with years that are 13 months long.
+False. Calendars like the [Hebrew](https://en.wikipedia.org/wiki/Hebrew_calendar) and [Coptic](https://en.wikipedia.org/wiki/Coptic_calendar) calendars deal with years that are 13 months long.
 
 ## A year is 365 (or 366) days
 
-False. The Islamic calendar is 354 (or 355) days long.
+False. The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is 354 (or 355) days long.
 
 ## Leap years occur every four years
 
@@ -80,11 +80,11 @@ False. The year 2000 was not a leap year.
 
 ## Leap years occur every four years except when the year is evenly divisible by 100
 
-False. The Hebrew calendar, which is based almost entirely off the lunar cycle, inserts leap years 7 times in a 19 year period.
+False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar), which is based almost entirely off the lunar cycle, inserts leap years 7 times in a 19 year period.
 
 ## The current year only changes at "New Years"
 
-False. The current year of the Japanese Imperial calendar is based on the reign of the current emperor. When the emperor dies, the next day is reset to the year 1 (of a new era).
+False. The current year of the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) is based on the reign of the current emperor. When the emperor dies, the next day is reset to the year 1 (of a new era).
 
 For example, the Emperor Shōwa (Akihito) passed away on January 7, Shōwa 64 (January 7, 1989). His son, Hirohito, ascended to the throne the next day, which was the date January 8, Heisei 1.
 
