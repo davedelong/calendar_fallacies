@@ -110,7 +110,7 @@ False. As mentioned above, Samoa did just that in 2011.
 
 ## It is normal that the Sept-, Oct-, Nov-, and Dec- months are numbered 9, 10, 11, and 12
 
-False. This is very weird.
+False. This is very weird. They used to be months 7, 8, 9, and 10, but some [reform to the Roman calendar](https://en.wikipedia.org/wiki/Roman_calendar#Calendar_of_Numa) back in the day resulted in the creation of January and February, which messed everything up.
 
 ## Everything you know about calendars is applicable to space travel.
 
