@@ -64,6 +64,8 @@ False. Calendars like the Hebrew and Coptic calendars deal with years that are 1
 
 ## A year is 365 (or 366) days
 
+False. The Islamic calendar is 354 (or 355) days long.
+
 ## Leap years occur every four years
 
 False. The year 2000 was not a leap year.
@@ -83,9 +85,24 @@ For example, the Emperor Shōwa (Akhito) passed away on January 7, Shōwa 64 (Ja
 False. The Julian calendar is still used by Eastern Orthodox churches, and the Julian day is used in certain kinds of astronomical calculations.
 
 ## Timezones always are on the hour mark
+
+False. Many places have half-hour offsets, such as French Polynesia, Newfoundland and Labrador, Iran, Afghanistan, India, Sri Lanka, Myanmar, the Cocos Islands, North Korea, and parts of Australia.
+
 ## OK... Timezones are always on the *half* hour mark
+
+False. There are a few places that have an offset of :15 of :45 minutes, such as Nepal, part of Western Australia, and the Chatham Islands.
+
 ## *Fine*... Timezones are always on the *quarter* hour mark
+
+Currently true, but historically false. Before the advent of global communications and standarized time keeping, the current time was pretty much up to the local administrators. 
+
+## No place is ever more than 12 hours away from UTC
+
+False. Parts of [Oceania](https://en.wikipedia.org/wiki/Oceania) 12:45, 13:00, and 14:00 hours ahead of UTC.
+
 ## No location will ever change what time zone it's in
+
+False. As mentioned above, Samoa did just that in 2011.
 
 ## It is normal that the Sept-, Oct-, Nov-, and Dec- months are numbered 9, 10, 11, and 12
 
