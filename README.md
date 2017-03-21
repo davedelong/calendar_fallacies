@@ -32,7 +32,7 @@ False. February. Duh.
 
 ## OK... Months always have at least 28 days in them
 
-False. The month *Pi Kogi Enavot* in the Coptic calendar only has 5 or 6 days in it (depending on the year).
+False. The month [*Pi Kogi Enavot*](https://en.wikipedia.org/wiki/Intercalary_month_%28Egypt%29) in the Coptic calendar only has 5 or 6 days in it (depending on the year).
 
 ## Month lengths follow regular cycles
 
