@@ -19,8 +19,10 @@
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.title }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-          <span class="site-footer-credits"><a href="{{ site.github.repository_url }}/issues/new">Suggest a new fallacy</a>.</span>
+          <span class="site-footer-owner">
+            <a href="{{ site.github.repository_url }}">{{ site.title }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
+            <a href="{{ site.github.repository_url }}/issues/new">Suggest a new fallacy</a>!
+          </span>
         {% endif %}
       </footer>
     </section>
