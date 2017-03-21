@@ -14,9 +14,11 @@ False. Many places around the world observe Daylight Saving Time, which means th
 
 ## An hour will never occur twice in a single day
 ## Every day has a midnight
+## Days start at midnight (or as close to it as possible)
 ## Everyone uses the Gregorian calendar
 ## Months always have 30 or 31 days in them
 ## OK... Months always have at least 28 days in them
+## Month lengths follow regular cycles
 ## The current year is {2017}
 ## All the important years are four digits longs
 ## In a range of days, a day will not be missing in the middle of it
@@ -29,8 +31,8 @@ False. Many places around the world observe Daylight Saving Time, which means th
 
 # Timezones
 ## Timezones always are on the hour mark
-## Timezones are always on the *half* hour mark
-## Timezones are always on the *quarter* hour mark
+## OK... Timezones are always on the *half* hour mark
+## *Fine*... Timezones are always on the *quarter* hour mark
 
 ## This is all really complicated.
 
