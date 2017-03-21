@@ -48,7 +48,7 @@ Currently true, but historically false. A couple of out-of-use calendars, like t
 
 False. It's the year 5777 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).
 
-## All the important years are four digits longs
+## All the important years are four digits long
 
 False. It's the year Heisei 29 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).
 
