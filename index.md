@@ -76,9 +76,13 @@ False. The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is
 
 ## Leap years occur every four years
 
-False. The year 2000 was not a leap year.
+False. The year 1900 was not a leap year.
 
 ## Leap years occur every four years except when the year is evenly divisible by 100
+
+False. The year 2000 *was* a leap year.
+
+## Leap years occur every four years except when the year is evenly divisible by 100, unless it's also evenly divisible by 400.
 
 False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar), which is based almost entirely off the lunar cycle, inserts leap years 7 times in a 19 year period.
 
