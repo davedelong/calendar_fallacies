@@ -106,7 +106,7 @@ False. Parts of [Oceania](https://en.wikipedia.org/wiki/Oceania) 12:45, 13:00, a
 
 ## No location will ever change what time zone it's in
 
-False. As mentioned above, Samoa did just that in 2011.
+False. As mentioned above, Samoa did just that in 2011. Cancún [switched timezones in 2015](http://abcnews.go.com/Travel/cancun-change-eastern-standard-time/story?id=28589197), as did [Turks & Caicos](http://www.huffingtonpost.com/2015/03/09/turks-and-caicos-time-zone_n_6832054.html).
 
 ## It is normal that the Sept-, Oct-, Nov-, and Dec- months are numbered 9, 10, 11, and 12
 
