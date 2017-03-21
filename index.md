@@ -106,7 +106,7 @@ Currently true, but historically false. Before the advent of global communicatio
 
 ## No place is ever more than 12 hours away from UTC
 
-False. Parts of [Oceania](https://en.wikipedia.org/wiki/Oceania) 12:45, 13:00, and 14:00 hours ahead of UTC.
+False. Parts of [Oceania](https://en.wikipedia.org/wiki/Oceania) are 12:45, 13:00, and 14:00 hours ahead of UTC.
 
 ## No location will ever change what time zone it's in
 
