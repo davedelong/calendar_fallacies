@@ -24,6 +24,10 @@ So if you're writing code and are trying to use the time `00:00:00` to represent
 
 Mostly true. For the sake of simplifying calculations and establishing conventions, the day-to-day rollover happens at midnight. However, the Hebrew calendar traditionally starts its days at sunset.
 
+## Saturday and Sunday are the weekend
+
+False. Most muslim countries use either Thursday and Friday, or Friday and Saturday as their weekend.
+
 ## Everyone uses the Gregorian calendar
 
 False. Many places in Africa use one of the various [Coptic calendars](https://en.wikipedia.org/wiki/Coptic_calendar). Israel uses the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar). The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is used all through the Middle East and other predominantly muslim countries. Thailand uses the Buddhist calendar. Japan uses the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) for official state business.
