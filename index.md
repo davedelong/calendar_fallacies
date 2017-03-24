@@ -128,6 +128,10 @@ False. As mentioned above, Samoa did just that in 2011. Cancún [switched timezo
 
 False. The `Asia/Tomsk` timezone [was created in 2016](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html) for parts of eastern Russia.
 
+## Time zones do not change their offset from UTC
+
+False. [Eight different time zones changed their UTC offset](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html) in 2016.
+
 ## Daylight Saving Time rules do not change
 
 False. They change all the time. In 2016, there were [nine different DST changes](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html).
