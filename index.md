@@ -30,7 +30,7 @@ False. Most muslim countries use either Thursday and Friday, or Friday and Satur
 
 ## Everyone uses the Gregorian calendar
 
-False. Many places in Africa use one of the various [Coptic calendars](https://en.wikipedia.org/wiki/Coptic_calendar). Israel uses the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar). The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is used all through the Middle East and other predominantly muslim countries. Thailand uses the Buddhist calendar. Japan uses the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) for official state business.
+False. Many places in Africa use one of the various [Coptic calendars](https://en.wikipedia.org/wiki/Coptic_calendar). Israel uses the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar) for determining holidays. The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is used all through the Middle East and other predominantly muslim countries. Thailand uses the Buddhist calendar. Japan uses the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) for official state business.
 
 ## Months always have 30 or 31 days in them
 
