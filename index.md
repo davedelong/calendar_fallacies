@@ -128,6 +128,14 @@ False. As mentioned above, Samoa did just that in 2011. Cancún [switched timezo
 
 False. The `Asia/Tomsk` timezone [was created in 2016](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html) for parts of eastern Russia.
 
+## Daylight Saving Time rules do not change
+
+False. They change all the time. In 2016, there were [nine different DST changes](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html).
+
+## Daylight Saving Time rules do not change on short notice.
+
+False. In 2016, Egypt decided to re-instate DST in June, and then reversed that decision three weeks later, [three days before the shift was supposed to happen](https://www.washingtonpost.com/news/worldviews/wp/2016/07/06/egypt-cancelled-daylight-savings-time-three-days-before-it-was-due-to-start/).
+
 ## It is normal that the Sept-, Oct-, Nov-, and Dec- months are numbered 9, 10, 11, and 12
 
 False. This is very weird. They used to be months 7, 8, 9, and 10, but some [reform to the Roman calendar](https://en.wikipedia.org/wiki/Roman_calendar#Calendar_of_Numa) back in the day resulted in the creation of January and February, which messed everything up.
