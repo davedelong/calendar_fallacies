@@ -132,6 +132,10 @@ False. The `Asia/Tomsk` timezone [was created in 2016](http://linuxsoft.cern.ch/
 
 False. [Eight different time zones changed their UTC offset](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html) in 2016.
 
+## The UNIX epoch is January 1, 1970
+
+False. The UNIX epoch is January 1, 1970 in UTC, but is Dec 31, 1969 in Los Angeles.
+
 ## Daylight Saving Time rules do not change
 
 False. They change all the time. In 2016, there were [nine different DST changes](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html).
