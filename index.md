@@ -78,6 +78,10 @@ False. Calendars like the [Hebrew](https://en.wikipedia.org/wiki/Hebrew_calendar
 
 False. The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is 354 (or 355) days long.
 
+## A holiday will always occur in the same part of the solar year
+
+False. Because the Islamic calendar is only 354 days long, holidays drift by about 10 days each solar year. So after eighteen years, a holiday that used to occur during the winter will be in the summer.
+
 ## Leap years occur every four years
 
 False. The year 1900 was not a leap year.
