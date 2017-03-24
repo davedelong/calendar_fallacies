@@ -28,6 +28,14 @@ Mostly true. For the sake of simplifying calculations and establishing conventio
 
 False. Most muslim countries use either Thursday and Friday, or Friday and Saturday as their weekend.
 
+## Weeks start on Sunday
+
+False. Weeks start on Sunday in the United States, Monday in Europe, and a couple of places start on Saturday.
+
+## Days in a work week are always contiguous
+
+False. In Brunei, the work week is Monday - Thursday and Saturday.
+
 ## Everyone uses the Gregorian calendar
 
 False. Many places in Africa use one of the various [Coptic calendars](https://en.wikipedia.org/wiki/Coptic_calendar). Israel uses the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar) for determining holidays. The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is used all through the Middle East and other predominantly muslim countries. Thailand uses the Buddhist calendar. Japan uses the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) for official state business.
