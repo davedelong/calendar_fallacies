@@ -18,7 +18,7 @@ This leads to some interesting questions: If a user has set an alarm to wake up 
 
 False. Brazil performs its DST "leap forward" transition at midnight, which means that 11:59 PM is followed by 1:00 AM.
 
-So if you're writing code and are trying to use the time `00:00:00` to represent "no time", you will be wrong in (at least) Brazil.
+So if you're writing code and are trying to use the time `00:00:00` to represent "no time", you will be wrong in Brazil, and [Lebanon in 2017](https://www.timeanddate.com/time/change/lebanon?year=2017).
 
 ## Days start at midnight (or as close to it as possible)
 
