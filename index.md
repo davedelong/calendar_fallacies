@@ -152,9 +152,13 @@ False. The UNIX epoch is January 1, 1970 in UTC, but is Dec 31, 1969 in Los Ange
 
 False. They change all the time. In 2016, there were [nine different DST changes](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html).
 
-## Daylight Saving Time rules do not change on short notice.
+## Daylight Saving Time rules do not change on short notice
 
 False. In 2016, Egypt decided to re-instate DST in June, and then reversed that decision three weeks later, [three days before the shift was supposed to happen](https://www.washingtonpost.com/news/worldviews/wp/2016/07/06/egypt-cancelled-daylight-savings-time-three-days-before-it-was-due-to-start/).
+
+## Days don't last longer than 25 hours
+
+False. Because of time zone offsets, a single calendar day typically lasts 50 hours. Or in other words, if you choose a date on the calendar, then there is a 50 hour window where at least some point on the earth thinks it is that day. The day "starts" in the UTC+14 timezone and continues for 14 hours until UTC+0 catches up to that calendar date. That date then continues for 24 hours, at which point UTC+0 transitions *out* of that timezone, but the other timezones behind UTC are still catching up, all the way to UTC-12.
 
 ## It is normal that the Sept-, Oct-, Nov-, and Dec- months are numbered 9, 10, 11, and 12
 
