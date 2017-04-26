@@ -26,7 +26,7 @@ Mostly true. For the sake of simplifying calculations and establishing conventio
 
 ## Saturday and Sunday are the weekend
 
-False. Most muslim countries use either Thursday and Friday, or Friday and Saturday as their weekend.
+False. Most Muslim countries use either Thursday and Friday, or Friday and Saturday as their weekend.
 
 ## Weeks start on Sunday
 
@@ -38,7 +38,7 @@ False. In Brunei, the work week is Monday - Thursday and Saturday.
 
 ## Everyone uses the Gregorian calendar
 
-False. Many places in Africa use one of the various [Coptic calendars](https://en.wikipedia.org/wiki/Coptic_calendar). Israel uses the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar) for determining holidays. The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is used all through the Middle East and other predominantly muslim countries. Thailand uses the Buddhist calendar. Japan uses the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) for official state business.
+False. Many places in Africa use one of the various [Coptic calendars](https://en.wikipedia.org/wiki/Coptic_calendar). Israel uses the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar) for determining holidays. The [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar) is used all through the Middle East and other predominantly Muslim countries. Thailand uses the Buddhist calendar. Japan uses the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) for official state business.
 
 ## Months always have 30 or 31 days in them
 
@@ -126,7 +126,7 @@ False. There are a few places that have an offset of :15 of :45 minutes, such as
 
 ## *Fine*... Timezones are always on the *quarter* hour mark
 
-Currently true, but historically false. Before the advent of global communications and standarized time keeping, the current time was pretty much up to the local administrators. When regions were brought in line with the international time keeping standards, they'd have to do some shifts to accomplish that, like Shanghai's weird 343 second shift in the early 1900s. For more examples, Liberia was [44 minutes behind UTC](https://en.wikipedia.org/wiki/UTC−00:44) up until 1972, and from 1880 to 1916, Ireland was [25 minutes and 21 seconds behind UTC](https://en.wikipedia.org/wiki/UTC-00:25:21).
+Currently true, but historically false. Before the advent of global communications and standardized time keeping, the current time was pretty much up to the local administrators. When regions were brought in line with the international time keeping standards, they'd have to do some shifts to accomplish that, like Shanghai's weird 343 second shift in the early 1900s. For more examples, Liberia was [44 minutes behind UTC](https://en.wikipedia.org/wiki/UTC−00:44) up until 1972, and from 1880 to 1916, Ireland was [25 minutes and 21 seconds behind UTC](https://en.wikipedia.org/wiki/UTC-00:25:21).
 
 ## No place is ever more than 12 hours away from UTC
 
