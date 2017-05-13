@@ -98,7 +98,7 @@ False. The year 1900 was not a leap year.
 
 False. The year 2000 *was* a leap year.
 
-## Leap years occur every four years except when the year is evenly divisible by 100, unless it's also evenly divisible by 400.
+## Leap years occur every four years except when the year is evenly divisible by 100, unless it's also evenly divisible by 400
 
 False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar), which is based almost entirely off the lunar cycle, inserts leap years [7 times in a 19 year period](https://en.wikipedia.org/wiki/Hebrew_calendar#Leap_years).
 
@@ -136,7 +136,7 @@ False. Parts of [Oceania](https://en.wikipedia.org/wiki/Oceania) are 12:45, 13:0
 
 False. As mentioned above, Samoa did just that in 2011. Cancún [switched timezones in 2015](http://abcnews.go.com/Travel/cancun-change-eastern-standard-time/story?id=28589197), as did [Turks & Caicos](http://www.huffingtonpost.com/2015/03/09/turks-and-caicos-time-zone_n_6832054.html).
 
-## We're done adding time zones.
+## We're done adding time zones
 
 False. The `Asia/Tomsk` timezone [was created in 2016](http://linuxsoft.cern.ch/cern/slc57/i386/yum/updates/repoview/tzdata.html) for parts of eastern Russia.
 
@@ -164,19 +164,19 @@ False. Because of time zone offsets, a single calendar day typically lasts 50 ho
 
 False. This is very weird. They used to be months 7, 8, 9, and 10, but some [reform to the Roman calendar](https://en.wikipedia.org/wiki/Roman_calendar#Calendar_of_Numa) back in the day resulted in the creation of January and February, which messed everything up.
 
-## Everything you know about calendars is applicable to space travel.
+## Everything you know about calendars is applicable to space travel
 
 False. There are many weird things about calendars and space travel. Days are longer, days are shorter, time flows faster, time flows slower, days are longer than years, etc etc.
 
-## "Calendrical" isn't a real word.
+## "Calendrical" isn't a real word
 
 [False](https://www.merriam-webster.com/dictionary/calendrical).
 
-## This is all really complicated.
+## This is all really complicated
 
 True!
 
-## I never want to write code that handles all of this.
+## I never want to write code that handles all of this
 
 True! You should always use the Date and Time Services provided by the [ICU Project](http://userguide.icu-project.org/datetime). If you're an iOS/macOS developer, then you should always stick to `NSCalendar` and its cohorts, which are all built on top of the ICU libraries.
 
