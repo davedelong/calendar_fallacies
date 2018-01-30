@@ -56,13 +56,13 @@ Mostly true, but specifically false. Traditional [Islamic calendars](https://en.
 
 Currently true, but historically false. A couple of out-of-use calendars, like the [Decimal calendar](https://en.wikipedia.org/wiki/Decimal_time) and the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar#Lunar_calendar) had weeks that were 7, 8, or even 10 days.
 
-## The current year is 2017
+## The current year is 2018
 
-False. It's the year 5777 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).
+False. It's the year 5778 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).
 
 ## All the important years are four digits long
 
-False. It's the year Heisei 29 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).
+False. It's the year Heisei 30 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).
 
 ## In a range of hours, an hour will not be missing in the middle of it
 
