@@ -62,7 +62,7 @@ False. It's the year 5779 in the [Hebrew calendar](https://en.wikipedia.org/wiki
 
 ## All the important years are four digits long
 
-False. It's the year Heisei 30 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).
+False. It's the year Heisei 31 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).
 
 ## In a range of hours, an hour will not be missing in the middle of it
 
