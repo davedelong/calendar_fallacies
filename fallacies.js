@@ -79,7 +79,7 @@
 	},
 	{
 		"id": "????",
-		"name": "The current year is 2019",
+		"name": "The current year is 2020",
 		"body": "False. It's the year 5780 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).",
 		"tags": []
 	},
