@@ -112,6 +112,10 @@ For example, the Emperor Shōwa (Hirohito) passed away on January 7, Shōwa 64 (
 
 False. In addition to the Japanese calendar having (potentially) an unbounded number of "New Years" in a single year, the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar#New_year) historically celebrated up to *four* different New Years in a single year.
 
+## A specific holiday on a specific calendar falls on the same date everywhere
+
+False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Yom_tov_sheni_shel_galuyot) adds extra days of observance to some holidays only outside of Israel. For example, the holiday of *Shavuot* is observed for one day in Israel, but for two days in the Diaspora. Similarly, the holiday of *Purim* is observed [on a different day in Jerusalem](https://en.wikipedia.org/wiki/Purim#Shushan_Purim).
+
 ## Nobody uses the Julian calendar anymore
 
 False. The Julian calendar is still used by Eastern Orthodox churches, and the Julian day is used in certain kinds of astronomical calculations.
