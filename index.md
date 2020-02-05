@@ -56,7 +56,7 @@ Mostly true, but specifically false. Traditional [Islamic calendars](https://en.
 
 Currently true, but historically false. A couple of out-of-use calendars, like the [Decimal calendar](https://en.wikipedia.org/wiki/Decimal_time) and the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar#Lunar_calendar) had weeks that were 7, 8, or even 10 days.
 
-## The current year is 2019
+## The current year is 2020
 
 False. It's the year 5780 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).
 
