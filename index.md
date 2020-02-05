@@ -118,7 +118,7 @@ False. The [Hebrew calendar](https://en.wikipedia.org/wiki/Yom_tov_sheni_shel_ga
 
 ## Nobody uses the Julian calendar anymore
 
-False. The Julian calendar is still used by Eastern Orthodox churches, and the Julian day is used in certain kinds of astronomical calculations.
+False. The Julian calendar is still used by Eastern Orthodox churches and the Julian day is used in certain kinds of astronomical calculations. There is a [village in Wales](https://en.wikipedia.org/wiki/Cwm_Gwaun) that still [celebrates New Year](https://en.wikipedia.org/wiki/Cwm_Gwaun#New_Year_celebrations) according to the Julian calendar on January 13.
 
 ## Timezones always are on the hour mark
 
