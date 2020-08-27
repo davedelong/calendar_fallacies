@@ -163,7 +163,7 @@
 	},
 	{
 		"id": "????",
-		"name": "Timezones always are on the hour mark",
+		"name": "Timezones are always on the hour mark",
 		"body": "False. Many places have half-hour offsets, such as French Polynesia, Newfoundland and Labrador, Iran, Afghanistan, India, Sri Lanka, Myanmar, the Cocos Islands, North Korea, and parts of Australia.",
 		"tags": []
 	},
