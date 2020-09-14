@@ -182,5 +182,5 @@ True!
 
 ## I never want to write code that handles all of this
 
-True! You should always use the Date and Time Services provided by the [ICU Project](http://userguide.icu-project.org/datetime). If you're an iOS/macOS developer, then you should always stick to `NSCalendar` and its cohorts, which are all built on top of the ICU libraries.
+True! You should always use the Date and Time Services provided by the [ICU Project](https://unicode-org.github.io/icu/userguide/datetime/). If you're an iOS/macOS developer, then you should always stick to `NSCalendar` and its cohorts, which are all built on top of the ICU libraries.
 
