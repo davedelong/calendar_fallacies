@@ -16,9 +16,9 @@ This leads to some interesting questions: If a user has set an alarm to wake up 
 
 ## Every day has a midnight
 
-False. Brazil performs its DST "leap forward" transition at midnight, which means that 11:59 PM is followed by 1:00 AM.
+False. Some countries, like [Chile](https://www.timeanddate.com/time/change/chile) and [Iran](https://www.timeanddate.com/time/change/iran), perform their DST "leap forward" transition at midnight, which means that 11:59 PM is followed by 1:00 AM. Other countries have historically done the same, like [Romania until 1996](https://www.timeanddate.com/time/change/romania/bucharest?year=1996) and [Brazil until 2018](https://www.timeanddate.com/time/change/brazil?year=2018).
 
-So if you're writing code and are trying to use the time `00:00:00` to represent "no time", you will be wrong in Brazil, and [Lebanon in 2017](https://www.timeanddate.com/time/change/lebanon?year=2017).
+So if you're writing code and are trying to use the time `00:00:00` to represent "no time", you will be wrong in these countries.
 
 ## Days start at midnight (or as close to it as possible)
 
