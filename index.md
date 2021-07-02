@@ -126,7 +126,7 @@ False. Many places have half-hour offsets, such as French Polynesia, Newfoundlan
 
 ## OK... Timezones are always on the *half* hour mark
 
-False. There are a few places that have an offset of :15 of :45 minutes, such as Nepal, part of Western Australia, and the Chatham Islands.
+False. There are a few places that have an offset of :15 or :45 minutes, such as Nepal, part of Western Australia, and the Chatham Islands.
 
 ## *Fine*... Timezones are always on the *quarter* hour mark
 
