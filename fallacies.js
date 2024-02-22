@@ -79,14 +79,14 @@
 	},
 	{
 		"id": "????",
-		"name": "The current year is 2020",
-		"body": "False. It's the year 5780 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).",
+		"name": "The current year is 2024",
+		"body": "False. It's the year 5784 in the [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar).",
 		"tags": []
 	},
 	{
 		"id": "????",
 		"name": "All the important years are four digits long",
-		"body": "False. It's the year Heisei 29 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).",
+		"body": "False. It's the year Reiwa 6 in the [Japanese calendar](https://en.wikipedia.org/wiki/Japanese_calendar).",
 		"tags": []
 	},
 	{
