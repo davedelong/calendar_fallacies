@@ -205,6 +205,12 @@
 	},
 	{
 		"id": "",
+		"name": "Time zones do not change their names",
+		"body": "False. In 2002, the `Europe/Kiev` time zone was [renamed to `Europe/Kyiv`](https://mm.icann.org/pipermail/tz-announce/2022-August/000071.html).",
+		"tags": []
+	},
+	{
+		"id": "",
 		"name": "The UNIX epoch is January 1, 1970",
 		"body": "False. The UNIX epoch is January 1, 1970 in UTC, but is Dec 31, 1969 in Los Angeles.",
 		"tags": []
