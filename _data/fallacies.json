@@ -147,7 +147,10 @@
 		"id": "",
 		"name": "The current year only changes at \"New Years\"",
 		"body": "False. The current year of the [Japanese Imperial calendar](https://en.wikipedia.org/wiki/Japanese_calendar) is based on the reign of the current emperor. When the emperor dies (or abdicates), the next day is reset to the year 1 (of a new era).\n\nFor example, the [Emperor Akihito abdicated](https://en.wikipedia.org/wiki/2019_Japanese_imperial_transition) on April 30, Heisei 30 (April 30, 2019). His son, Naruhito, ascended to the throne the next day, which was the date [May 1, Reiwa 1](https://en.wikipedia.org/wiki/Reiwa_era).",
-		"tags": []
+		"tags": [],
+		"sources": [
+			{ "name": "Japanese calendar", "link": "https://en.wikipedia.org/wiki/Japanese_calendar" }
+		]
 	},
 	{
 		"id": "",
@@ -159,7 +162,10 @@
 		"id": "",
 		"name": "Year numbers always increase",
 		"body": "False. Years numbers reset back to 1 when the calendar's *era* changes. This is how the Japanese calendar represents a transition from one imperial era to the next (such as Heisei to Reiwa).",
-		"tags": []
+		"tags": [],
+		"credit": [
+			{ "name": "jklausa", "link": "https://github.com/davedelong/calendar_fallacies/issues/94" }
+		]
 	},
 	{
 		"id": "",
@@ -213,7 +219,10 @@
 		"id": "",
 		"name": "Time zones do not change their names",
 		"body": "False. In 2002, the `Europe/Kiev` time zone was [renamed to `Europe/Kyiv`](https://mm.icann.org/pipermail/tz-announce/2022-August/000071.html).",
-		"tags": []
+		"tags": [],
+		"credit": [
+			{ "name": "waltflanagan", "link": "https://github.com/davedelong/calendar_fallacies/issues/92" }
+		]
 	},
 	{
 		"id": "",
@@ -224,7 +233,7 @@
 	{
 		"id": "",
 		"name": "Daylight Saving Time rules do not change",
-		"body": "False. They change all the time. [<span id=\"tzchanges\" />](https://github.com/eggert/tz/tags)",
+		"body": "False. They change multiple times every year. [<span id=\"tzchanges\" />](https://github.com/eggert/tz/tags)",
 		"tags": []
 	},
 	{
