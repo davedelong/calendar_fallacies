@@ -157,6 +157,12 @@
 	},
 	{
 		"id": "",
+		"name": "Year numbers always increase",
+		"body": "False. Years numbers reset back to 1 when the calendar's *era* changes. This is how the Japanese calendar represents a transition from one imperial era to the next (such as Heisei to Reiwa).",
+		"tags": []
+	},
+	{
+		"id": "",
 		"name": "Nobody uses the Julian calendar anymore",
 		"body": "False. The Julian calendar is still used by Eastern Orthodox churches, and the Julian day is used in certain kinds of astronomical calculations.",
 		"tags": []
