@@ -245,9 +245,7 @@
 	{
 		"id": "",
 		"name": "Daylight Saving Time adjustments are always one hour forward or backward",
-		"body": "False. [Lord Howe Island](https://en.wikipedia.org/wiki/Lord_Howe_Island) (part of Australia) observes a 30 minute Daylight Saving Time change. Its standard time zone offset is UTC+10:30, and UTC+11:00 during its summer time.
-		
-		Historically, the United Kingdom observed \"British Double Summer Time\" during [World War Two](https://en.wikipedia.org/wiki/British_Summer_Time#Periods_of_deviation), which resulted in a two hour difference from its normal time zone offset. This had the benefit of maximizing available daylight hours during wartime, as well as aligning clocks with their allies and enemies in Western Europe.",
+		"body": "False. [Lord Howe Island](https://en.wikipedia.org/wiki/Lord_Howe_Island) (part of Australia) observes a 30 minute Daylight Saving Time change. Its standard time zone offset is UTC+10:30, and UTC+11:00 during its summer time.\n\nHistorically, the United Kingdom observed \"British Double Summer Time\" during [World War Two](https://en.wikipedia.org/wiki/British_Summer_Time#Periods_of_deviation), which resulted in a two hour difference from its normal time zone offset. This had the benefit of maximizing available daylight hours during wartime, as well as aligning clocks with their allies and enemies in Western Europe.",
 		"tags": [],
 		"sources": [
 			{ "name": "Lord Howe Island", "link": "https://en.wikipedia.org/wiki/Lord_Howe_Island" }
