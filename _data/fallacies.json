@@ -218,7 +218,7 @@
 	{
 		"id": "",
 		"name": "Time zones do not change their names",
-		"body": "False. In 2002, the `Europe/Kiev` time zone was [renamed to `Europe/Kyiv`](https://mm.icann.org/pipermail/tz-announce/2022-August/000071.html).",
+		"body": "False. In 2022, the `Europe/Kiev` time zone was [renamed to `Europe/Kyiv`](https://mm.icann.org/pipermail/tz-announce/2022-August/000071.html).",
 		"tags": [],
 		"credit": [
 			{ "name": "waltflanagan", "link": "https://github.com/davedelong/calendar_fallacies/issues/92" }
